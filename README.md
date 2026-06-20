@@ -2,7 +2,7 @@
 
 A custom dual-layer, high-speed hardware platform designed around a Xilinx/AMD Spartan-7 FPGA architecture. Optimized for independent edge computing, layout routing constraints passing 100% DRC validation. 
 
-![Truss-V 3D Render](fpga-edge-compute.png)
+<img width="428" height="594" alt="truss" src="https://github.com/user-attachments/assets/3484330e-7133-4bbd-b53b-b9f2d0f29b8a" />
 
 ---
 
