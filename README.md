@@ -2,7 +2,7 @@
 
 A custom dual-layer, high-speed hardware platform designed around a Xilinx/AMD Spartan-7 FPGA architecture. Optimized for independent edge computing, layout routing constraints passing 100% DRC validation. 
 
-<img width="428" height="594" alt="truss" src="https://github.com/user-attachments/assets/3484330e-7133-4bbd-b53b-b9f2d0f29b8a" />
+<img width="416" height="597" alt="Screenshot 2026-06-20 171827" src="https://github.com/user-attachments/assets/8eda1dfc-7038-4dd6-82bd-5ee3480bbafa" />
 
 ---
 
